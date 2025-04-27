@@ -1,0 +1,17 @@
+{
+  "base_weights": {
+    "prediction_weight": 0.15,
+    "prediction_trend_weight": 0.15,
+    "news_weight": 0.2,
+    "reddit_weight": 0.2,
+    "technical_indicator_weight": 0.3
+  },
+  "prediction_aggressiveness_factor": 2.5,
+  "buy_signal_min_threshold": 0.05,
+  "max_percent_per_position": 0.25,
+  "confidence_max_risk_multiplier": 3.0,
+  "sell_off_peak_drop_percent": 2.0,
+  "limit_order_price_buffer": 1.007,
+  "buy_price_rounding": 2,
+  "hours_bet_decisions": 12
+}

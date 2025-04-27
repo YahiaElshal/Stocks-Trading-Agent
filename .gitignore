@@ -1,0 +1,22 @@
+# Ignore environment variables and secrets
+secrets.json
+
+# Ignore all pycache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE/editor folders
+.vscode/
+.idea/
+
+# Ignore logs
+*.log
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
