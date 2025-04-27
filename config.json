@@ -1,4 +1,5 @@
 {
+  "model_name": "gemma3:1b",
   "base_weights": {
     "prediction_weight": 0.15,
     "prediction_trend_weight": 0.15,
